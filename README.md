@@ -1,4 +1,4 @@
-# Economic Growth and Data Engineering: A GDP-Focused Study
+# Economic and Data Engineering: A GDP-Focused Study
 
 ## Division of labor
 Our team will divide the task based on the data acquisition methods (Groups A, B, C, D) before integration. 
