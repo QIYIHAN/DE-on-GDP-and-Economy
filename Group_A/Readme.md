@@ -1,43 +1,51 @@
-## 2013-2019_Counties_Data处理流程
+## Processing Steps for 2013-2019_Counties_Data
 
-所有数据的来源为2013-2019_Counties_Data.xlsx，请勿修改此文件中任何数据。
+All data is sourced from 2013-2019_Counties_Data.xlsx. Do not modify any data within this file.
 
-excel_to_csv.py为excel文件转csv文件脚本，需要的时候运行即可。
+The excel_to_csv.py script is used for converting Excel files to CSV format. Run this script when necessary.
 
-### 步骤一
+### Step 1
 
-​	运行fill_missing_step1.py，对2013-2019_Counties_Data.xlsx中D-O列的缺失值进行线性插值法补充。
+​	Run fill_missing_step1.py to perform linear interpolation on missing values in columns D-O of 2013-2019_Counties_Data.xlsx.
 
-​	得到文件fill_missing_step1.xlsx。
+  Output: fill_missing_step1.xlsx.
 
-### 步骤二
+### Step 2
 
-​	运行updated_step2.py,对fill_missing_step1.xlsx中的特定两列进行两两相除得到新增列存入excel中。
+​	Run updated_step2.py to divide specific columns pairwise from fill_missing_step1.xlsx and store the results in a new Excel 
+  file.
+  
+  Output: updated_step2.xlsx.
 
-​	得到文件updated_step2.xlsx。
+### Step 3
 
-### 步骤三
+​	Run clean_columns_step3.py to remove specified columns (resulting from pairwise division) from updated_step2.xlsx and 
+  rename specific columns.
 
-​	运行clean_columns_step3.py，对updated_step2.xlsx中指定列（两两相除的列）进行去除，并重命名特定列	名。
+  Output: clean_columns_step3.xlsx
 
-​	得到clean_columns_step3.xlsx。
+### Step 4
 
-### 步骤四
+  Analyze the correlation coefficient matrix to identify highly correlated variable pairs and remove variables with 
+  coefficients close to 1.
 
-  通过相关系数矩阵来分析每两个变量之间的相关性，删除相关系数接近1的变量
-  重新获得corr_columns_step5.xlsx
+  Obtain corr_columns_step5.xlsx after removing highly correlated variables.
 
-### 步骤五
+### Step 5
 
-  对面板数据使用线性回归模型，分析系数不为0（Hypothesis test)的变量，筛选出重要变量，将他们考虑进乡村经济指数的一部分。
+  Apply linear regression models with panel data and analyze variables with non-zero coefficients (Hypothesis test) to 
+  identify significant variables for later calculation of Rural Economic Index (REI).
 
-### 步骤六
+### Step 6
 
-  通过PCA(选择一个主成分）方法，将最终选出来的五个重要变量变为一个主成分，该主成分由五个变量线性组合而成，可以用作为乡村经济指标（REI)
-  将最终指数存为rural_economic_index_step6.xlsx
+  Utilize Principal Component Analysis (PCA) to combine the final selected five important variables into a single principal 
+  component (P1) representing the Rural Economic Index (REI). This principal component is a linear combination of the five 
+  variables.
+
+  Save the final index as rural_economic_index_step6.xlsx.
   
 
-### 项目所需库：
+### Required libraries for the project include:
 
 | **numpy**    | **1.26.4** |
 | ------------ | ---------- |
