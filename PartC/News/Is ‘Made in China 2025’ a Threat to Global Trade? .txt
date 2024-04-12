@@ -1,0 +1,100 @@
+May 13, 2019
+https://www.cfr.org/backgrounder/made-china-2025-threat-global-trade
+
+Is ‘Made in China 2025’ a Threat to Global Trade?
+China’s industrial policy is aimed at rapidly expanding its high-tech sectors and developing its advanced manufacturing base, but President Trump and other leaders of industrial democracies see the plan as a threat.
+A worker handles smartphone chip components at a factory in Dongguan, China.
+A worker handles smartphone chip components at a factory in Dongguan, China. Nicolas Asfouri/AFP/Getty Images
+WRITTEN BY
+James McBride and Andrew Chatzky
+UPDATED
+Last updated May 13, 2019 8:00 am (EST)
+    
+The Chinese government has launched “Made in China 2025,” a state-led industrial policy that seeks to make China dominant in global high-tech manufacturing. The program aims to use government subsidies, mobilize state-owned enterprises, and pursue intellectual property acquisition to catch up with—and then surpass—Western technological prowess in advanced industries.  
+
+For the United States and other major industrialized democracies, however, these tactics not only undermine Beijing’s stated adherence to international trade rules but also pose a security risk. Washington argues that the policy relies on discriminatory treatment of foreign investment, forced technology transfers, intellectual property theft, and cyber espionage, practices that have encouraged President Donald J. Trump to levy tariffs on Chinese goods and block several Chinese-backed acquisitions of technology firms. Meanwhile, many other countries have tightened their oversight of foreign investment, intensifying debate over how best to respond to China’s behavior.
+
+What is China 2025?
+Released in 2015, Made in China 2025 is the government’s ten year plan to update China’s manufacturing base by rapidly developing ten high-tech industries. Chief among these are electric cars and other new energy vehicles, next-generation information technology (IT) and telecommunications, and advanced robotics and artificial intelligence.
+
+Daily News Brief
+A summary of global news developments with CFR analysis delivered to your inbox each morning. Weekdays.
+
+Email Address
+View all newsletters >
+Other major sectors include agricultural technology; aerospace engineering; new synthetic materials; advanced electrical equipment; emerging bio-medicine; high-end rail infrastructure; and high-tech maritime engineering.
+
+These sectors are central to the so-called fourth industrial revolution, which refers to the integration of big data, cloud computing, and other emerging technologies into global manufacturing supply chains. In this regard, Chinese policymakers drew inspiration from the German government’s Industry 4.0 development plan.
+
+Beijing’s ultimate goal is to reduce China’s dependence on foreign technology and promote Chinese high-tech manufacturers in the global marketplace. Semiconductors are an area of particular emphasis, given their centrality to nearly all electronic products. China accounts for about 60 percent of global demand for semiconductors but only produces some 13 percent of global supply. China 2025 sets specific targets: by 2025, China aims to achieve 70 percent self-sufficiency in high-tech industries, and by 2049—the hundredth anniversary of the People’s Republic of China—it seeks a dominant position in global markets.
+
+Chinese officials, wary of international blowback, have increasingly framed the plan as aspirational and unofficial. They have begun to reduce their allusions to it as Western leaders have voiced concerns. In the opening session of the 2019 National People’s Congress, Premier Li Keqiang did not mention China 2025 at all; it was the first time he left the program out of his annual report to the congress since it was first introduced. 
+
+RELATED
+A More Strategic German Foreign Policy?
+by Liana Fix and Caroline Kapp
+Does Chinese State Media Pose a Threat to the United States?
+by Joshua Kurlantzick
+Will There Be a Trade Truce at the G20?
+by Andrew Chatzky
+How does it fit into China’s economic model?
+China 2025 reflects Beijing’s longstanding development goals. Since the market reforms of leader Deng Xiaoping in the 1980s, the ruling Chinese Communist Party (CCP) has pursued a mixed economy that combines socialist planning with elements of private enterprise.
+
+In recent decades, the CCP has taken steps to shift the economy away from resource extraction and low value–added, low wage manufacturing—largely mining, energy, and consumer goods such as clothing and footwear, which make up almost half of the country’s economy—to a high-tech, high-productivity economy. China 2025 is intended to push the economy through this difficult transition and over the so-called middle-income trap, in which growth plateaus as wages start to rise, that has bedeviled many other developing countries.
+
+China 2025 is intended to push the economy through this difficult transition and over the so-called middle-income trap.
+Thus, subsidies and other favoritism for local production and “indigenous” innovation has long been official Chinese policy. In 2006, the National Medium and Long Term Plan [PDF] set out the goal of making China a “world leader” in science and technology, though its targets were not as specific as China 2025.
+
+How does it intend to achieve its goals?
+China 2025 accelerates preexisting efforts by devoting more resources and intensifying centralized policy planning to coordinate across government, private companies, and academia. The plan includes publicly stated policies, as well as more opaque actions, which some analysts say are meant to shield China from accusations of violating its commitments to the World Trade Organization (WTO) and avoid retaliation. These tactics include:
+
+Setting explicit targets. Through both public goal setting and semi-official, backchannel coordination, China’s leadership encourages private and public firms to shape their decision-making around the plan’s priorities.
+
+Providing direct subsidies. The government will increase direct support for the China 2025 industries through state funding, low interest loans, tax breaks, and other subsidies. The exact amount is unclear, but some outside estimates [PDF] put the likely number in the hundreds of billions of dollars.
+
+Foreign investment and acquisitions. Chinese companies, both private and state-backed, have been encouraged to invest in foreign companies, notably semiconductor firms, to gain access to advanced technology. The value of Chinese acquisitions in the United States peaked in 2016 at over $45 billion.
+
+$45 billion Chinese acquisitions in the United States, 2016
+
+Mobilizing state-backed companies. Much of this investment comes from SOEs, or companies or funds backed by the Chinese government. The economic reforms of the 1990s reduced the role of state firms in the economy, but they still account for a third of gross domestic product (GDP) and an estimated two-thirds of China’s outbound investment. Many of China’s global tech leaders, such as Huawei and ZTE, while privately run, are supported by the government.
+
+Forced transfer agreements. Foreign companies complain that to invest or do business in China, they must enter into joint ventures with Chinese firms under terms that require them to share sensitive intellectual property and advanced technological know-how. As CFR Senior Fellow Brad W. Setser has explained, China has used its joint venture rules to acquire outside technologies ranging from high-speed rail to electric vehicle batteries. Some of these rules relating to automakers have since been relaxed.
+
+What are the criticisms of China 2025?
+Policymakers and security officials in the United States and other developed countries increasingly see China’s efforts to become a dominant player in advanced technology as a national security problem. The Pentagon warned in 2017 that state-led Chinese investment in U.S. firms working on facial-recognition software, 3-D printing, virtual reality systems, and autonomous vehicles is a threat because such products have “blurred the lines” between civilian and military technologies. In April 2018, U.S. intelligence agencies said that Chinese recruitment of foreign scientists, its theft of U.S. intellectual property, and its targeted acquisitions of U.S. firms constituted an “unprecedented threat” to the U.S. industrial base.
+
+More broadly, policymakers worry that China’s state-led model and its ambition to control entire supply chains—for instance, the cobalt industry, which powers most modern electronics—means that entire industries could come under control of a rival geopolitical power. A June 2018 White House report warned that [PDF] China’s economic moves threaten “not only the U.S. economy but also the global innovation system as a whole.”
+
+Critics say that China is distorting global markets by prioritizing political considerations over economic incentives.
+In the economic realm, critics say that China is distorting global markets by prioritizing political considerations over economic incentives. Its subsidies, they say, skew markets and lead to overproduction and the dumping of cheap products in the global market, as many countries allege continues to be the case with solar panels. In March 2018, a Trump administration investigation [PDF]—launched under Section 301 of the 1974 Trade Act—concluded that China’s actions were “unreasonable and discriminatory.” Trump has long criticized Chinese trade, investment, and currency policies for increasing the U.S. trade deficit, which he claims undercuts U.S. manufacturers.
+
+Meanwhile, companies based in the United States, Europe, and elsewhere complain of an asymmetry in which China is free to invest in foreign countries, but foreign companies selling to and operating in China are highly constrained by investment requirements and other regulations.
+
+How do China’s actions compare with economic policies elsewhere?
+China’s leaders say that their commitment to a state-led industrial policy is necessary to increase incomes for their people and compete in the fast-changing global marketplace. They point out that China’s average per capita income is still far below that of the developed world, at around $8,000 a year. Per capita income in the United States is $56,000.
+
+They also argue that they are only imitating what other successful developed countries have done. The United States used tariffs and other government support to nurture native industries in the early days of its industrialization, while the rapid development of the so-called Asian tigers, such as South Korea in the twentieth century, featured extensive state support. Analysts say China is also drawing inspiration from more recent industrial policies by countries such as Japan and Germany, which have sought to integrate new information technologies into their manufacturing sectors.
+
+$8,000 China's annual per capita income, versus $56,000 in the United States
+
+Many European and U.S. policymakers, however, say China is different. European businesses argue that [PDF] there are stark differences between China 2025 and Germany’s Industry 4.0 plan. For one, Germany’s state subsidies are much smaller, and they are almost entirely dedicated to basic research. Germany also lacks targets for replacing imports or quotas for indigenous production. What’s more, its economy is generally open to outside participation and competition. German officials, like many other Western policymakers, have complained that while their economy is open to Chinese investment, market access for their companies in China is severely limited.
+
+What policy tools does the U.S. have to respond?
+As the perceived threat from Chinese industrial policy has blurred the lines between trade policy and national security, the U.S. executive branch has increasingly taken advantage of powers delegated to it by Congress. The Trade Expansion Act of 1962, the Trade Act of 1974, and other legislation has given the president the power to levy tariffs and other trade measures if he determines that it is necessary for the country’s security. Washington has used these and other tools to counter China’s economic policymaking.
+
+CFIUS and other potential investment-review measures. The Committee on Foreign Investment in the United States (CFIUS) is an inter-agency body that reviews foreign investments and acquisitions and can recommend that the president block deals if they threaten U.S. security interests. The number of transactions CFIUS has blocked has accelerated under both Barack Obama and Trump. Still, the Trump administration argues that the agency is understaffed and lacks enough authority to respond to the scale of the threat from Chinese investments, especially since some firms purposely structure deals to hide the involvement of Chinese state funds.
+
+In June 2018, Trump floated using executive powers to ban tech-related acquisitions by firms with at least 25 percent Chinese ownership and impose new export controls on critical technologies. He has so far held off implementing these. Meanwhile, Congress passed legislation in 2018 that increased CFIUS’s purview to a wider range of transactions.
+
+Tariffs and other trade remedies. The White House’s Section 301 investigation into China recommended protective tariffs in March 2018. The administration had already applied tariffs on solar panels and steel and aluminum imports, a move it said was necessary in part due to Chinese overproduction. In July and August 2018, the United States applied 25 percent tariffs on $50 billion worth of Chinese goods, and in September it applied 10 percent tariffs on a further $200 billion worth of goods. Washington raised that tariff to 25 percent in May 2019, after U.S.-China trade talks faltered. Trump has also threatened to extend the 25 percent tariffs to all remaining imports of Chinese goods.
+
+Other restrictions on Chinese firms. The U.S. government has targeted Chinese technology companies over national security concerns. A 2012 report by the House Intelligence Committee declared Huawei and ZTE threats to national security due to the potential for Beijing to use their networks for spying or sabotage, and the Commerce department restricted their ability to sell their products, contract with government agencies, and otherwise operate in the United States.
+
+World Trade Organization. Trump’s actions have intensified debate over the role of the WTO. The Trump administration believes that the WTO forum is insufficient for addressing China’s abuses, because, they allege, China has been undermining the principles of open trade even while observing the letter of the law. Some experts say China’s economy has evolved past what the architects of the WTO envisioned and thus WTO rules are too narrow to address Beijing’s actions. Others say that given a concerted diplomatic effort, the WTO process could challenge and eventually reform China’s economic model.
+
+How have other countries responded?
+Numerous other developed countries have pushed back against China’s trade and investment practices. Australia has been the second-largest recipient of investment from China since 2007, after the United States. Australia’s oversight of Chinese investment has intensified since 2016, when Canberra rejected Chinese bids to buy Australian agribusiness and electricity grid operators.
+
+Germany is another important case, as its high-tech manufacturing economy has made it China’s top investment destination in Europe. Chinese involvement in German industrial giants, including Daimler, which is developing new battery technologies, and Kuka, the country’s largest robotics producer, has raised alarms and led Berlin to call for a European Union–wide investment review body. France, too, has increased restrictions on foreign investment to stop what it calls “looting” of sensitive technologies. However, many smaller European countries, such as Greece and Portugal, worry that restricting outside capital could hamper their economic growth.     
+
+At the EU level, leaders have long complained about Chinese subsidies that distort the global economy, as well as restricted market access for European firms and the lack of protection for their intellectual property. The EU has filed complaints against China at the WTO and imposed anti-dumping measures on many products. Many of these issues are regularly aired during EU-China summits, the most recent of which, in July 2018, saw China promise improved market access and further talks for a comprehensive investment agreement.    
